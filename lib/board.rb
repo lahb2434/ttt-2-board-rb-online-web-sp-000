@@ -1,2 +1,2 @@
 # Define the variable board below.
-board = ["","","","","","","","",""]
+board = array.new( 9 , )
